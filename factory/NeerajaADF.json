@@ -1,0 +1,9 @@
+{
+	"name": "NeerajaADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "150cb5b8-11e6-4e75-8fcb-9717d679cccd",
+		"tenantId": "f73d2216-df90-4681-892f-7eeb1e6fd7ff"
+	}
+}
