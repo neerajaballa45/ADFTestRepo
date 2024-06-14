@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "NeerajaADF"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }
